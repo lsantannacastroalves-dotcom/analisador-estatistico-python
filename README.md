@@ -33,7 +33,7 @@ Escolha a opção 1 para digitar números separados por vírgula, por exemplo `1
 
 ## Integrantes
 
-- Preencher com os nomes dos integrantes do grupo.
+Cauã puello, Caio rocha, gustavo rocha, joão vitor santos, Lucas santanna 
 
 ## Observação
 
